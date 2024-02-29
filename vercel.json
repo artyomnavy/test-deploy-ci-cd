@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "название вашего проекта",
+  "name": "test-deploy-ci-cd",
   "builds": [
     { "src": "src/main.ts", "use": "@vercel/node" }
   ],
